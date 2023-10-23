@@ -4,8 +4,11 @@
 # Carrera : ITC
 ## Practica de Github
 
+Jessely Santiago
+Hola caro, ya hice mi modificacion aqui ✋
 **Bold SemanaTec 12**
 *italic*
+
 
 1. Galletas 🍪
 2. Pastel 🍰
