@@ -30,3 +30,4 @@ def line(start, end):
 | Nombre | Actividad |
 | ----------- | ----------- |
 | Carolina  | Dibujar un pastel |
+| Jueves | Colorear |
